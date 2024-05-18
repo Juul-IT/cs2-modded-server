@@ -3,5 +3,3 @@
 /steamcmd/
 .env copy
 /custom_files/*
-
-*.DS_Store
